@@ -67,6 +67,8 @@ function typeEffect() {
 }
 
 typeEffect();
+
+
 window.addEventListener("scroll", function () {
     const navbar = document.querySelector("nav"); // استهداف النافبار
     const homeSection = document.getElementById("home"); // قسم الهوم
